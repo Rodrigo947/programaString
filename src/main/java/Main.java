@@ -33,7 +33,7 @@ public class Main {
             Validadores.validarNovaExecucao(opcaoNovaExecucao);
 
         }
-
+        System.exit(1);
     }
 }
 
